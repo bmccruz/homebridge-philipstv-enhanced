@@ -1,4 +1,4 @@
-# homebridge-philipstv-enhanced
+# homebridge-philipstv-hue-2020
 Homebridge module for Philips TV (with JointSpace enabled) with Power on/off, Sound, Ambilight with Hue On/Off and source input control
 
 # Description
@@ -18,6 +18,8 @@ buttons). Other modifications include ChromeCast-based power-on option, and
 support for an external "etherwake" executable.
 
 Modified by [bmccruz](https://github.com/bmccruz) to add support to Ambilight+Hue for Saphi TVs.
+
+Modified by [rafaelgaspar](https://github.com) to add support for Saphi TVs Ambilight that only have On/Off for Ambilight
 
 # Installation
 
